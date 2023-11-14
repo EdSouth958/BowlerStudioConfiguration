@@ -14,6 +14,10 @@
     "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git:DebuggingBowlerStudio.groovy": [
       "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git",
       "DebuggingBowlerStudio.groovy"
+    ],
+    "https://github.com/EdSouth958/fff.git:fff.groovy": [
+      "https://github.com/EdSouth958/fff.git",
+      "fff.groovy"
     ]
   },
   "BowlerStudioConfigs": {
