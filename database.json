@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git": [
+      "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git",
+      "1699942813639"
+    ],
     "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git": [
       "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
       "1699942764218"
@@ -7,8 +11,8 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
-      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
+    "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git:DebuggingBowlerStudio.groovy": [
+      "https://github.com/EdSouth958/DebuggingBowlerStudio_EdSouth958.git",
       "DebuggingBowlerStudio.groovy"
     ]
   },
